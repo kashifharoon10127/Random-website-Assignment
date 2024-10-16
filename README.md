@@ -42,5 +42,3 @@ now i visted website .
  * when we send any product into add to cart backend send data to back end and store user data 
  * when we add products things like images , discounts or prices this is back end
  # This is checking branch1 added 
- 
-
